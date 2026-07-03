@@ -1,6 +1,6 @@
 # Sruthy S (Computer Science Student | Aspiring Full-Stack Developer)
 
-### Squad Domain: Coder | FIFA Nation: India
+### Squad Domain: Coder | FIFA Nation: Argentina
 
 ### About Me
 
